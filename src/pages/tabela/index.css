@@ -1,0 +1,77 @@
+table{
+    padding: 30px;
+    border-color: cadetblue;
+
+}
+
+td{
+    text-align:center;
+}
+
+thead{
+    color: rgb(16,13,179);
+}
+.coluna1{
+font-weight:bolder;
+background-color: rgb(180, 138, 165);
+}
+th{
+    width: 180px;
+}
+#period {
+    background-color: rgb(116, 116, 19);
+    width: 250px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+#android{
+    background-color: darksalmon;
+
+}
+#ios{
+    background-color: rgb(36,169,187);
+}
+#windows {
+    background-color: lemonchiffon;
+
+}
+
+#outros{
+background-color: aquamarine;
+}
+
+pre {
+    font-family: Verdana;
+    color: rgb(16,13,179);
+}
+
+body{
+    background-color: rgba(217, 228, 215, 0.285);
+}
+ol{
+    color: chartreuse;
+}
+ul{
+    color: rgb(33, 172, 79);
+}
+h2{
+   text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.linha1{
+    background-color: rgb(218, 32, 178);
+}
+.linha2{
+    background-color: rgb(32, 218, 162);
+}
+.linha3{
+    background-color: rgb(186, 168, 122);
+}
+.linha4{
+    background-color: rgb(203, 203, 194);
+}
+.linha5{
+    background-color: goldenrod;
+}
+
